@@ -48,14 +48,21 @@ Constants
 
 Elements 
 - Play again button 
-- Combo chart
+- Combo chart - Just a display chart of what will win the player what - Only for visual purposes nothing mechanical
 - Wallet -display
 - Bet - display
 
+Initialized 
+- The fruit to the wheel
+- The bet amount 
+- The players wallet 
+- The payouts of each combo that the player can land on
+- The slots set to the highest combo across all three rows
+
 Handle a player clicking the spin button
 - Update the new balance based upon if they won or lost anything.
-- Update the bet back down to zero.
 - Update the message to either congrats or you lost.
+- The fruits will be assigned to a number which will be picked from the math random method
 
 Clicking the replay button
 - Restart the wheels 
