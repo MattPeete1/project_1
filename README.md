@@ -63,6 +63,8 @@ Handle a player clicking the spin button
 - Update the new balance based upon if they won or lost anything.
 - Update the message to either congrats or you lost.
 - The fruits will be assigned to a number which will be picked from the math random method
+- You will know if you won by the congats message along with the funds being added to account
+- You wull know if you lost by the "you lose" message
 
 Clicking the replay button
 - Restart the wheels 
