@@ -5,6 +5,8 @@ Technologies Used
 - HTML
 - CSS 
 - JavaScript
+- unsplash.com
+- depositphotos.com
 
 Getting Started 
 - Link to Game:
