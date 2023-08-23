@@ -25,6 +25,7 @@ body {
     position: absolute;
     left: 150px;
     top: 10px;
+    border-radius: 20%;
 }
 
 .wheel {
