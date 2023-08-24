@@ -51,7 +51,7 @@ const slotOptions = [
       handlePlayAgain();
     };
     if (w1.innerText === w2.innerText && w2.innerText === w3.innerText && w3.innerText === w1.innerText) {
-      return (winMsgEl.innerText = 'You Won Money');
+      return (winMsgEl.innerText = 'You Won Money');      
     } else if (Number(wallet.innerHTML) === 0) {
       return (winMsgEl.innerText = 'Game Over!');
     } else {
@@ -97,27 +97,27 @@ const slotOptions = [
       let wageringAmt = Number(bet.innerHTML);
       winnings = wageringAmt * slotOptions[0].multiplier;
       wallet.innerHTML = Number(wallet.innerHTML) + winnings + wageringAmt;
-      return console.log(winnings, '0');
+      return winnings;
     } else if (winMsgEl.innerText === 'You Won Money' && w1.innerText === slotOptions[1].fruit) {
         let wageringAmt = Number(bet.innerHTML);
         winnings = wageringAmt * slotOptions[0].multiplier;
         wallet.innerHTML = Number(wallet.innerHTML) + winnings + wageringAmt;
-        return console.log(winnings, '1');
+        return winnings;
     } else if (winMsgEl.innerText === 'You Won Money' && w1.innerText === slotOptions[2].fruit) {
         let wageringAmt = Number(bet.innerHTML);
         winnings = wageringAmt * slotOptions[0].multiplier;
         wallet.innerHTML = Number(wallet.innerHTML) + winnings + wageringAmt;
-        return console.log(winnings, '2');
+        return winnings;
     } else if (winMsgEl.innerText === 'You Won Money' && w1.innerText === slotOptions[3].fruit) {
         let wageringAmt = Number(bet.innerHTML);
         winnings = wageringAmt * slotOptions[0].multiplier;
         wallet.innerHTML = Number(wallet.innerHTML) + winnings + wageringAmt;
-        return console.log(winnings, '3');
+        return winnings;
     } else if (winMsgEl.innerText === 'You Won Money' && w1.innerText === slotOptions[4].fruit) {
         let wageringAmt = Number(bet.innerHTML);
         winnings = wageringAmt * slotOptions[0].multiplier;
         wallet.innerHTML = Number(wallet.innerHTML) + winnings + wageringAmt;
-        return console.log(winnings, '4');
+        return winnings;
     } else {
         bet.innerHTML = 0;
         wallet.innerHTML = Number(wallet.innerHTML) - Number(bet.innerHTML);

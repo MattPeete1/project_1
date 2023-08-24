@@ -227,7 +227,7 @@ body {
 #multiplierMenu {
     background-image: url('https://images.unsplash.com/photo-1624353129271-33ac9fb00bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80');    
     font-size: 35px;
-    width: 300px;
+    width: 350px;
     border: 5px solid rgb(0, 0, 0);
     border-radius: 15%;
     position: absolute;
