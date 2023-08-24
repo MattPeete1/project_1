@@ -1,6 +1,9 @@
 Lucky Slots Slot Machine
 - We all have come to know the world of gambling and if not all of us some of us may have dipped our hands into the exciting, but heart stopping world of betting. In this game you're going to be able to test just how lucky you are with the world's most exciting game. “The Lucky Slots.”
 
+- Screenshots
+![Alt text](A767153E-8933-46B7-A721-F536F3831B65_1_201_a.jpeg)
+
 Technologies Used
 - HTML
 - CSS 
@@ -11,6 +14,12 @@ Technologies Used
 
 Getting Started 
 - Link to Game:
+
+Directions
+- To start the game place the bet that you to offer up using the up arrow in the bet section
+- Once you bet is selected with the circular nob on the right hand side of the machine
+- Once you do so the screen directly in the middle below the three wheels will either state "Try Again", "You Won Money", or "Game Over" if you have ran out of money
+- To start a new game once it says game over click the nob one more time and the play again button should apear.
 
 Instructions
 - This is a game of luck so it’s all up to how lucky you think you are!

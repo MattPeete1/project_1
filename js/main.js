@@ -13,6 +13,7 @@ const slotOptions = [
   let wallet = document.getElementById('wltMoney');
   let bet = document.getElementById('betMoney');
   let win;
+  
   //adds event listeners to the buttons
   document.getElementById('spin').addEventListener('click', handleLeverPull);
   document.getElementById('betUp').addEventListener('click', handleBettingUp);
