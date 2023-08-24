@@ -7,17 +7,18 @@ Technologies Used
 - JavaScript
 - unsplash.com
 - depositphotos.com
+- https://animate.style/
 
 Getting Started 
 - Link to Game:
 
 Instructions
-- This is a game of luck so it’s all up to you how lucky you think you are!
+- This is a game of luck so it’s all up to how lucky you think you are!
 - You start with $500 and if you don't win anything there is no getting that money back.
 - You are going to have a bet button in order to choose how much money you would like to place on the slots for the turn you are taking.
 - The different wheel combinations will be shown on the screen so you know what you are capable of winning.
 - Once you have chosen your bet then there is only one thing left to do which is to pull that lever and test your luck.
-- Once you use all of your money then you will be prompted with a lose screen along with a play again button.
+- Once you use all of your money then you will be prompted with a game over message and when you press the lever one more time you will be prompted with a play again button.
 
 As a User 
 - I would like to be able to bet a certain amount in $10 increments.

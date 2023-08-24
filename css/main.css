@@ -18,18 +18,19 @@ body {
 #title {
     text-align: center;
     width: 400px;
-    background-image: url('https://images.unsplash.com/photo-1593000904207-7e529d2bb019?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');    
+    background-image: url('https://images.unsplash.com/photo-1624353129271-33ac9fb00bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80');    
     display: inline;
     font-size: 50px;
-    color: rgb(255, 217, 0);
+    color: rgb(0, 0, 0);
     position: absolute;
     left: 150px;
     top: 10px;
     border-radius: 20%;
+    border: 2px solid rgb(0, 0, 0);
 }
 
 .wheel {
-    background-color: white;
+    background-image: url('https://images.unsplash.com/photo-1624353129271-33ac9fb00bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80');    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -66,25 +67,29 @@ body {
 }
 
 #wallet {
-    color: gold;
-    background-image: url('https://images.unsplash.com/photo-1593000904207-7e529d2bb019?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');    display: inline;
+    color: rgb(5, 5, 4);
+    background-image: url('https://images.unsplash.com/photo-1624353129271-33ac9fb00bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80');    
     display: inline;
     text-align: center;
     font-size: 25px;
     position: absolute;
     top: 300px;
     left: 130px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20%;
 }
 
 #bet {
-    color: gold;
-    background-image: url('https://images.unsplash.com/photo-1593000904207-7e529d2bb019?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');    display: inline;
+    color: rgb(0, 0, 0);
+    background-image: url('https://images.unsplash.com/photo-1624353129271-33ac9fb00bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80');    
     display: inline;
     text-align: center;
     font-size: 25px;
     position: absolute;
     top: 300px;
     left: 500px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20%;
 }
 
 #handle1 {
@@ -129,18 +134,20 @@ body {
 }
 
 #playAgain {
-    color: gold;
+    color: rgb(0, 0, 0);
     width: 100px;
     height: 40px;
-    background-image: url('https://images.unsplash.com/photo-1593000904207-7e529d2bb019?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');    display: inline;
+    background-image: url('https://images.unsplash.com/photo-1624353129271-33ac9fb00bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80');    
     cursor: pointer;
     position: absolute;
     left: 295px;
     top: 325px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20%;
 }
 
 #wltMoney {
-    background-image: url('https://images.unsplash.com/photo-1593000904207-7e529d2bb019?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');    display: inline;
+    background-image: url('https://images.unsplash.com/photo-1624353129271-33ac9fb00bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80');    
     width: 130px;
     height: 35px;
     position: absolute;
@@ -150,22 +157,25 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: gold;
-    
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20%;
 }
 
 #betMoney {
-    background-image: url('https://images.unsplash.com/photo-1593000904207-7e529d2bb019?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');    
+    background-image: url('https://images.unsplash.com/photo-1624353129271-33ac9fb00bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80');    
     width: 130px;
     height: 35px;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: gold;
+    color: rgb(0, 0, 0);
     position: absolute;
     top: 328px;
     left: 455px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20%;
 }
 
 #betUp {
@@ -174,7 +184,7 @@ body {
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
     border-right: transparent;
-    border-left: 20px solid gold; 
+    border-left: 20px solid rgb(0, 0, 0); 
     background: none;
     cursor: pointer;
     outline: none;
@@ -188,7 +198,7 @@ body {
     height: 0;
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
-    border-right: 20px solid gold; 
+    border-right: 20px solid rgb(0, 0, 0); 
     border-left: transparent;
     background: none;
     cursor: pointer;
@@ -199,15 +209,29 @@ body {
 }
 
 #winMsg {
-    background-image: url('https://images.unsplash.com/photo-1593000904207-7e529d2bb019?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');    
+    background-image: url('https://images.unsplash.com/photo-1624353129271-33ac9fb00bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80');    
     width: 130px;
     height: 35px;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: gold;
+    color: rgb(0, 0, 0);
     position: absolute;
     top: 285px;
     left: 280px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20%;
+}
+
+#multiplierMenu {
+    background-image: url('https://images.unsplash.com/photo-1624353129271-33ac9fb00bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80');    
+    font-size: 35px;
+    width: 300px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 15%;
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    color: rgb(4, 3, 3);
 }
