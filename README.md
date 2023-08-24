@@ -13,21 +13,16 @@ Technologies Used
 - https://animate.style/
 
 Getting Started 
-- Link to Game:
+- Link to Game: https://mattpeete1.github.io/project_1/
 
 Directions
+- This is a game of luck so it’s all up to how lucky you think you are!
+- You start with $500 and if you don't win anything there is no getting that money back.
 - To start the game place the bet that you to offer up using the up arrow in the bet section
 - Once you bet is selected with the circular nob on the right hand side of the machine
 - Once you do so the screen directly in the middle below the three wheels will either state "Try Again", "You Won Money", or "Game Over" if you have ran out of money
-- To start a new game once it says game over click the nob one more time and the play again button should apear.
-
-Instructions
-- This is a game of luck so it’s all up to how lucky you think you are!
-- You start with $500 and if you don't win anything there is no getting that money back.
-- You are going to have a bet button in order to choose how much money you would like to place on the slots for the turn you are taking.
-- The different wheel combinations will be shown on the screen so you know what you are capable of winning.
-- Once you have chosen your bet then there is only one thing left to do which is to pull that lever and test your luck.
-- Once you use all of your money then you will be prompted with a game over message and when you press the lever one more time you will be prompted with a play again button.
+- To start a new game when you run out of money the machine will state "game over" click the nob one more time and the play again button should apear.
+- The different wheel combinations will be shown on the side screen off to the left so you know what you are capable of winning.
 
 As a User 
 - I would like to be able to bet a certain amount in $10 increments.
@@ -40,7 +35,7 @@ As a User
 Next Steps 
 - I would like to add more outcomes on the wheels.
 - I would like to add music in the background along with a spinning sound.
-- I would like to add money images to the wallet.
+- I would like to add that different fruits have different percentages of landing on
 
 Design
 - I would like the design to have a classy, but fun finish to it.
