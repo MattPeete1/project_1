@@ -21,7 +21,7 @@ body {
     background-image: url('https://images.unsplash.com/photo-1593000904207-7e529d2bb019?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');    
     display: inline;
     font-size: 50px;
-    color: gold;
+    color: rgb(255, 217, 0);
     position: absolute;
     left: 150px;
     top: 10px;
@@ -88,7 +88,7 @@ body {
 }
 
 #handle1 {
-    background-image: url('https://images.unsplash.com/photo-1593000904207-7e529d2bb019?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');    
+    background-image: url('https://images.unsplash.com/photo-1624353129271-33ac9fb00bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80');    
     width: 125px;
     height: 20px;
     background-color: gold;
@@ -96,10 +96,12 @@ body {
     position: absolute;
     left: 1245px;
     top: 350px;
+    border: 5px solid rgb(0, 0, 0);
+
 }
 
 #handle2 {
-    background-image: url('https://images.unsplash.com/photo-1593000904207-7e529d2bb019?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');    
+    background-image: url('https://images.unsplash.com/photo-1624353129271-33ac9fb00bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80');    
     width: 150px;
     height: 20px;
     background-color: gold;
@@ -108,6 +110,8 @@ body {
     left: 1285px;
     top: 280px;
     transform: rotate(90deg);
+    border: 5px solid rgb(0, 0, 0);
+
 }
 
 #spin {
@@ -117,11 +121,11 @@ body {
     border-radius: 100%;
     background-color: white;
     cursor: pointer;
-    background-image: url('https://images.unsplash.com/photo-1528459105426-b9548367069b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=664&q=80');
+    background-image: url('https://images.unsplash.com/photo-1594896733292-9a77b5809c63?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');
     position: absolute;
-    left: 1325px;
+    left: 1329px;
     top: 160px;
-    border: 5px solid rgb(255, 0, 0);
+    border: 5px solid rgb(0, 0, 0);
 }
 
 #playAgain {
