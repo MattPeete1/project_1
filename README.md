@@ -19,7 +19,7 @@
 1. This is a game of luck so it’s all up to how lucky you think you are!
 2. You start with $500 and if you don't win anything there is no getting that money back.
 3. To start the game place the bet that you want to offer up using the up arrow in the bet section
-4. Once you bet is selected hit the circular nob on the right hand side of the machine
+4. Once your bet is selected hit the circular nob on the right hand side of the machine
 5. Once you do so the screen directly in the middle below the three wheels will either state "Try Again", "You Won Money", or "Game Over" if you have ran out of money
 6. To start a new game when you run out of money the machine will state "game over", the play again button should apear.
 6. The different wheel combinations will be shown on the side screen off to the left so you know what you are capable of winning.
