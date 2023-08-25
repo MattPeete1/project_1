@@ -51,7 +51,8 @@ const slotOptions = [
       handlePlayAgain();
     };
     if (w1.innerText === w2.innerText && w2.innerText === w3.innerText && w3.innerText === w1.innerText) {
-      return (winMsgEl.innerText = 'You Won Money');      
+      return (winMsgEl.innerText = 'You Won Money');
+      //updates the winnings in the wallet as soon as the multiplier is calculated with the bet
     } else if (Number(wallet.innerHTML) === 0) {
       return (winMsgEl.innerText = 'Game Over!');
     } else {
@@ -127,9 +128,9 @@ const slotOptions = [
   //handles the play again button showing the game again when the game is over
   function handlePlayAgain() {
     if (winMsgEl.innerText != 'Game Over!') {
-      playAgain.style.display = 'none';
-    } else {
       playAgain.style.display = 'block';
+    } else {
+        playAgain.style.display = 'none';
     };
   };
   
