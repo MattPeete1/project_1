@@ -2,7 +2,7 @@
 - We all have come to know the world of gambling and if not all of us some of us may have dipped our hands into the exciting, but heart stopping world of betting. In this game you're going to be able to test just how lucky you are with the world's most exciting game. “The Lucky Slots.”
 
 ## Screenshots
-![Alt text](A767153E-8933-46B7-A721-F536F3831B65_1_201_a.jpeg)
+![Alt text](A767153E-8933-46B7-A721-F536F3831B65_1_105_c.jpeg)
 
 ## Technologies Used
 - HTML
