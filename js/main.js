@@ -2,9 +2,9 @@
 const slotOptions = [
     {fruit: '🍓', multiplier: 1.5},
     {fruit: '🍌', multiplier: 1.6},
-    {fruit: '🍇', multiplier: 1.7},
-    {fruit: '🍒', multiplier: 1.8},
-    {fruit: '💸', multiplier: 2.5},
+    {fruit: '🍇', multiplier: 1.5},
+    {fruit: '🍒', multiplier: 1.6},
+    {fruit: '💸', multiplier: 1.5},   
   ];
   
   //assigns the elements to the variables
@@ -47,13 +47,13 @@ const slotOptions = [
       win = checkWin(w1.innerText, w2.innerText, w3.innerText);
     });
     //win logic for the game
-    if (Number(wallet.innerHTML) === 0) {
+    if (Number(wallet.innerHTML) <= 0) {
       handlePlayAgain();
     };
     if (w1.innerText === w2.innerText && w2.innerText === w3.innerText && w3.innerText === w1.innerText) {
       return (winMsgEl.innerText = 'You Won Money');
       //updates the winnings in the wallet as soon as the multiplier is calculated with the bet
-    } else if (Number(wallet.innerHTML) === 0) {
+    } else if (Number(wallet.innerHTML) <= 0) {
       return (winMsgEl.innerText = 'Game Over!');
     } else {
       return (winMsgEl.innerText = 'Try Again!');
