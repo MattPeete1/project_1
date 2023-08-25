@@ -1,10 +1,10 @@
-# H1 Lucky Slots Slot Machine
+# Lucky Slots Slot Machine
 - We all have come to know the world of gambling and if not all of us some of us may have dipped our hands into the exciting, but heart stopping world of betting. In this game you're going to be able to test just how lucky you are with the world's most exciting game. “The Lucky Slots.”
 
-# H2 Screenshots
+## Screenshots
 ![Alt text](A767153E-8933-46B7-A721-F536F3831B65_1_201_a.jpeg)
 
-# H2 Technologies Used
+## Technologies Used
 - HTML
 - CSS 
 - JavaScript
@@ -12,10 +12,10 @@
 - depositphotos.com
 - https://animate.style/
 
-# H2 Getting Started 
+## Getting Started 
 - Link to Game: https://mattpeete1.github.io/project_1/
 
-# H2 Directions
+## Directions
 1. This is a game of luck so it’s all up to how lucky you think you are!
 2. You start with $500 and if you don't win anything there is no getting that money back.
 3. To start the game place the bet that you want to offer up using the up arrow in the bet section
@@ -24,7 +24,7 @@
 6. To start a new game when you run out of money the machine will state "game over", the play again button should apear.
 6. The different wheel combinations will be shown on the side screen off to the left so you know what you are capable of winning.
 
-# H2 As a User 
+## As a User 
 - I would like to be able to bet a certain amount in $10 increments.
 - I would like to have a wallet of funds.
 - I would like to be able to spin the wheel.
@@ -32,7 +32,7 @@
 - I would like to have a play again button once I lose.
 - I would like to see if I win or lose when I spin the wheel.
 
-# H2 Next Steps 
+## Next Steps 
 - I would like to add more outcomes on the wheels.
 - I would like to add music in the background along with a spinning sound.
 - I would like to add that different fruits have different percentages of landing on
